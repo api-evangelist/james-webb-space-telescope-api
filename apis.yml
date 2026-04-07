@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Space
   - Astronomy
   - NASA
   - Science
+  - Space
 url: >-
   https://raw.githubusercontent.com/api-search/james-webb-space-telescope-api/refs/heads/main/apis.yml
 created: '2024-11-07'
@@ -26,9 +26,9 @@ apis:
       always up-to-date JWST telescope data.
     humanURL: https://jwstapi.com
     tags:
-      - Space
       - Astronomy
       - Science
+      - Space
     properties:
       - type: Documentation
         url: https://jwstapi.com
