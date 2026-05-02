@@ -1,42 +1,45 @@
 # James Webb Space Telescope API (james-webb-space-telescope-api)
-A free API for getting all James Webb Space Telescope data. The API provides access to JWST images, observations, and data by program, type, and more. Users can build mobile apps, integrate research data, filter and query data, and access a single up-to-date source of JWST information.
+A free, third-party API for accessing James Webb Space Telescope data sourced from the Mikulski Archive for Space Telescopes (MAST). The API provides access to JWST images, observations, and data filterable by program, type, and other parameters. It is built by an independent engineer (not an official NASA, ESA, or CSA service) and data is available under CC-BY 4.0. Authentication is via API key obtained at signup.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-search/james-webb-space-telescope-api/refs/heads/main/apis.yml)
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/james-webb-space-telescope-api/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - Space, Astronomy, NASA, Science
+ - Astronomy, JWST, NASA, Science, Space
 
 ## Timestamps
 
-- **Created:** 2024-11-07 
-- **Modified:** 2026-03-16 
+- **Created:** 2024-11-07
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### James Webb Space Telescope API
-A free API for getting all James Webb Space Telescope data. Get data by program, type, and more to build apps, support research, and access always up-to-date JWST telescope data.
+Programmatic access to JWST images and observations sourced from the MAST archive. Filter and query by program, observation type, and other attributes. Requires an API key obtained via signup at jwstapi.com.
 
 **Human URL:** [https://jwstapi.com](https://jwstapi.com)
 
+**Base URL:** https://api.jwstapi.com
 
 #### Tags:
 
- - Space, Astronomy, Science
+ - Astronomy, JWST, Science, Space
 
 #### Properties
 
 - [Documentation](https://jwstapi.com)
+- [Sign Up](https://jwstapi.com)
 
 ## Common Properties
 
 - [Website](https://jwstapi.com)
+- [License (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Maintainers
 
