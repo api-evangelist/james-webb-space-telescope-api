@@ -40,7 +40,7 @@ apis:
     properties:
       - type: Documentation
         url: https://jwstapi.com
-      - type: SignUp
+      - type: Signup
         url: https://jwstapi.com
 common:
   - type: Website
