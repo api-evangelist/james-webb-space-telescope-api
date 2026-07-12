@@ -43,6 +43,8 @@ apis:
       - type: Signup
         url: https://jwstapi.com
 common:
+  - type: DomainSecurity
+    url: security/james-webb-space-telescope-api-domain-security.yml
   - type: Website
     url: https://jwstapi.com
   - type: TermsOfService

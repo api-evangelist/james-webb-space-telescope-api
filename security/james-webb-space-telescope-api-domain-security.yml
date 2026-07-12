@@ -1,0 +1,20 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: jwstapi.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 12 04:10:59 2026 GMT
+  hsts: false
+- host: api.jwstapi.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  3 12:15:14 2026 GMT
+  hsts: null
+domains:
+- domain: jwstapi.com
+  dnssec: false
+  caa: []
+  spf: false
+  dmarc: false
